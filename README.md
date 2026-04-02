@@ -47,6 +47,10 @@ TaskFlow Pro is an advanced task management application built with React, Tailwi
 - **Framer Motion**: Animation library for smooth transitions.
 - **Vite**: Next-generation frontend tooling for fast development.
 
+<img width="1350" height="784" alt="image" src="https://github.com/user-attachments/assets/d9e01b9c-2582-4eaa-bb63-c8596a59d0c2" />
+<img width="1322" height="793" alt="image" src="https://github.com/user-attachments/assets/1a2e18f6-f8da-414b-aefd-2c080a718f6b" />
+
+
 ## License
 
 This project is licensed under the Apache-2.0 License.
